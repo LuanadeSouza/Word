@@ -1,4 +1,4 @@
-package br.com.luanadev.word
+package br.com.luanadev.word.data.entity
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
