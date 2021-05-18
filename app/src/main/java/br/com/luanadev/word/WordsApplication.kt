@@ -2,7 +2,7 @@ package br.com.luanadev.word
 
 import android.app.Application
 import br.com.luanadev.word.repository.WordRepository
-import br.com.luanadev.word.data.WordRoomDatabase
+import br.com.luanadev.word.data.db.WordRoomDatabase
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.SupervisorJob
 

@@ -1,4 +1,4 @@
-package br.com.luanadev.word.data
+package br.com.luanadev.word.data.db
 
 import android.content.Context
 import androidx.room.Database

@@ -6,7 +6,7 @@ import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import br.com.luanadev.word.data.entity.Word
 import br.com.luanadev.word.data.dao.WordDao
-import br.com.luanadev.word.data.WordRoomDatabase
+import br.com.luanadev.word.data.db.WordRoomDatabase
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.runBlocking
 import org.junit.After
