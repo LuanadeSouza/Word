@@ -3,8 +3,6 @@
  Estou projetando e construindo um aplicativo usando os componentes
  de arquitetura Room, ViewModel e LiveData. 
 
-Implementando a arquitetura recomendada usando os componentes
-de arquitetura do Android.
 
 Trabalho com um banco de dados para obter e salvar dados e 
 preencher previamente o banco de dados com palavras de amostra.
